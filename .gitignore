@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+build/
+jtodotxt.iml
+lib/
+out/
